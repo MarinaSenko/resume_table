@@ -1,0 +1,35 @@
+body {
+    background: url("/resume_table/images/fon.png") fixed repeat !important;
+}
+.lastname {
+    text-align: center;
+    margin: 1%;
+    font-size: 500%;
+    font-weight: bold;
+    color: #31708f;
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+}
+img {
+    width: 100%;
+}
+.list li {
+    margin: 2%;
+    font-size: 150%;
+    color: #d4d4d4;
+}
+.descr {
+    font-size: 150%;
+    width: 70%;
+    color: #d4d4d4;
+}
+.term {
+    font-size: 150%;
+    font-weight: bold;
+    width: 30%;
+    color: #d4d4d4;
+}
+.struct {
+    font-size: 350%;
+    color: #31708f;
+    text-shadow: 2px 2px 3px rgba(255,255,255,0.1);
+}
